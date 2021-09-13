@@ -3,22 +3,23 @@
   name: Johnathan Yih
   profession: Web Developer
   image: images/profile.jpg
-  location: Los Angeles, CA, USA
+  location: Los Angeles, USA
   relocation: true
-  company: Atomic Studio
-  for_hire: true
+  company: Available for Hire
+  for_hire: false
   focus: Improving web development skills
   focus_url: https://github.com/jyih
+    # An enthusiastic graduate from Dartmouth College, with a strong academic record, who is extremely determined and hard working.
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Able to learn and develop new skills quickly; proven through my work experience both as a team member and as an individual. Confident and professional, having developed a strong work ethic, as well as excellent interpersonal skills and being able to communicate at all levels of any organization. 
+    
+    Seeking a great, enthusiastic engineering team to work for that will provide me with challenging, interesting work to both learn from and contribute to.
   skills:
     - JavaScript
     - Python
     - HTML / CSS
   tools:
-    - React / Redux
+    - React/Redux
     - Flask-SQLAlchemy
     - VSCode
     # - Gatsby
