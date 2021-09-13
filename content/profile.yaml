@@ -5,9 +5,9 @@
   image: images/profile.jpg
   location: Los Angeles, USA
   relocation: true
-  company: Available for Hire
-  for_hire: false
-  focus: Improving web development skills
+  company: Open to work
+  for_hire: True
+  focus: Full-Stack Web Development
   focus_url: https://github.com/jyih
     # An enthusiastic graduate from Dartmouth College, with a strong academic record, who is extremely determined and hard working.
   about: |
@@ -20,9 +20,8 @@
     - HTML / CSS
   tools:
     - React/Redux
-    - Flask-SQLAlchemy
-    - VSCode
-    # - Gatsby
+    - Flask
+    - Express
   budget:
     currency: $
     min: 5

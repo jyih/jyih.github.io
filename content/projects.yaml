@@ -7,7 +7,7 @@
     - Python
     - React
     - Redux
-    - Flask-SQLAlchemy
+    - Flask
   icon: website
 
 - name: Nimbus Sounds
