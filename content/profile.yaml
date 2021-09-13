@@ -6,13 +6,13 @@
   location: Los Angeles, USA
   relocation: true
   company: Open to work
-  for_hire: True
+  for_hire: true
   focus: Full-Stack Web Development
   focus_url: https://github.com/jyih
     # An enthusiastic graduate from Dartmouth College, with a strong academic record, who is extremely determined and hard working.
   about: |
-    Able to learn and develop new skills quickly; proven through my work experience both as a team member and as an individual. Confident and professional, having developed a strong work ethic, as well as excellent interpersonal skills and being able to communicate at all levels of any organization. 
-    
+    Able to learn and develop new skills quickly; proven through my work experience both as a team member and as an individual. Confident and professional, having developed a strong work ethic, as well as excellent interpersonal skills and being able to communicate at all levels of any organization.
+
     Seeking a great, enthusiastic engineering team to work for that will provide me with challenging, interesting work to both learn from and contribute to.
   skills:
     - JavaScript
