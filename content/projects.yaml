@@ -8,6 +8,11 @@
     - React
     - Redux
     - Flask
+    - SQLAlchemy
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Heroku
   icon: website
 
 - name: Nimbus Sounds
@@ -19,6 +24,24 @@
     - React
     - Redux
     - Express
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Heroku
+  icon: website
+
+- name: PokeProbe
+  url: https://pokeprobe.herokuapp.com/
+  description: Full-stack web application where users can discover, catch, and share visual fusions of Pokémon with other users
+  status: in progress
+  tags:
+    - JavaScript
+    - Express
     - Pug
+    - Sequelize
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Heroku
   icon: website
   # image: images/project.jpg
