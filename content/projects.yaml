@@ -14,6 +14,7 @@
     - CSS
     - Heroku
   icon: website
+  image: images/poll-party.png
 
 - name: Nimbus Sounds
   url: https://nimbus-sounds.herokuapp.com/
@@ -29,6 +30,7 @@
     - CSS
     - Heroku
   icon: website
+  image: images/nimbus-sounds.png
 
 - name: PokeProbe
   url: https://pokeprobe.herokuapp.com/
@@ -44,4 +46,4 @@
     - CSS
     - Heroku
   icon: website
-  # image: images/project.jpg
+  image: images/pokeprobe.png
