@@ -1,21 +1,3 @@
-- name: Poll Party
-  url: https://poll-party.herokuapp.com/
-  description: Full-stack web application where users can create and vote on custom poll questions
-  # status: in progress
-  tags:
-    - JavaScript
-    - Python
-    - React
-    - Redux
-    - Flask
-    - SQLAlchemy
-    - PostgreSQL
-    - HTML
-    - CSS
-    - Render
-  icon: website
-  image: images/poll-party.png
-
 - name: Owok
   url: https://owok.onrender.com/
   description: A two player, turn-based game based on Maplestory’s popular, nostalgic mini-game Omok
@@ -34,6 +16,24 @@
     - Render
   icon: website
   image: images/owok.jpg
+
+- name: Poll Party
+  url: https://poll-party.herokuapp.com/
+  description: Full-stack web application where users can create and vote on custom poll questions
+  # status: in progress
+  tags:
+    - JavaScript
+    - Python
+    - React
+    - Redux
+    - Flask
+    - SQLAlchemy
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Render
+  icon: website
+  image: images/poll-party.png
 
 - name: PokeProbe
   url: https://pokeprobe.herokuapp.com/
