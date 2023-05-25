@@ -1,7 +1,7 @@
 - name: Poll Party
   url: https://poll-party.herokuapp.com/
   description: Full-stack web application where users can create and vote on custom poll questions
-  status: in progress
+  # status: in progress
   tags:
     - JavaScript
     - Python
@@ -12,30 +12,33 @@
     - PostgreSQL
     - HTML
     - CSS
-    - Heroku
+    - Render
   icon: website
   image: images/poll-party.png
 
-- name: Nimbus Sounds
-  url: https://nimbus-sounds.herokuapp.com/
-  description: Full-stack web application inspired by SoundCloud
-  status: in progress
+- name: Owok
+  url: https://owok.onrender.com/
+  description: A two player, turn-based game based on Maplestory’s popular, nostalgic mini-game Omok
+  # status: in progress
   tags:
     - JavaScript
+    - Python
     - React
     - Redux
-    - Express
+    - Flask
+    - Socketio
+    - SQLAlchemy
     - PostgreSQL
     - HTML
     - CSS
-    - Heroku
+    - Render
   icon: website
-  image: images/nimbus-sounds.png
+  image: images/owok.jpg
 
 - name: PokeProbe
   url: https://pokeprobe.herokuapp.com/
   description: Full-stack web application where users can discover, catch, and share visual fusions of Pokémon with other users
-  status: in progress
+  # status: in progress
   tags:
     - JavaScript
     - Express
@@ -44,6 +47,6 @@
     - PostgreSQL
     - HTML
     - CSS
-    - Heroku
+    - Render
   icon: website
   image: images/pokeprobe.png
