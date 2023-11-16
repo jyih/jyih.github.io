@@ -1,6 +1,6 @@
 - name: Owok
   url: https://owok.onrender.com/
-  description: A two player, turn-based game based on Maplestory’s popular, nostalgic mini-game Omok
+  description: A two player, turn-based game based on Maplestory's popular, nostalgic mini-game Omok
   # status: in progress
   tags:
     - JavaScript
