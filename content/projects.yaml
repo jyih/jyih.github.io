@@ -18,7 +18,7 @@
   image: images/owok.jpg
 
 - name: Poll Party
-  url: https://poll-party.herokuapp.com/
+  url: https://poll-party.onrender.com/
   description: Full-stack web application where users can create and vote on custom poll questions
   # status: in progress
   tags:
@@ -36,7 +36,7 @@
   image: images/poll-party.png
 
 - name: PokeProbe
-  url: https://pokeprobe.herokuapp.com/
+  url: https://pokeprobe.onrender.com/
   description: Full-stack web application where users can discover, catch, and share visual fusions of Pokémon with other users
   # status: in progress
   tags:
