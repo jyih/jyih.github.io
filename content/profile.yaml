@@ -1,0 +1,36 @@
+- profile:
+  initials: JY
+  name: Johnathan Yih
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Los Angeles, CA
+  relocation: true
+  company: Fluz
+  for_hire: true
+  focus: Full-Stack Web Development
+  focus_url: https://drive.google.com/file/d/1164zh1IzsEZH_KhBdt_dvw4C8jzkep2d/view?usp=sharing
+
+  about: |
+    I'm an economics and game theory fan turned software engineer who's excited about how programming is transforming the world. I've built applications with Javascript, Python, React, Redux, Node.js, Express, Flask, SQLAlchemy, Sequelize, and PostgreSQL.
+
+    I'm seeking a great, enthusiastic engineering team that will provide me with challenging work to both learn from and contribute to.
+
+  # Outside of coding, I'm a music enthusiast—you can find me listening to anything from Shostakovich to Tuvan throat singing.
+
+  skills:
+    - TypeScript /
+      JavaScript
+    - Python
+    - HTML / CSS
+
+  tools:
+    - React / Redux
+    - Angular
+    - Flask
+    - Express
+
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

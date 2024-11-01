@@ -1,0 +1,52 @@
+- name: Owok
+  url: https://owok.onrender.com/
+  description: A two player, turn-based game based on Maplestory's popular, nostalgic mini-game Omok
+  # status: in progress
+  tags:
+    - JavaScript
+    - Python
+    - React
+    - Redux
+    - Flask
+    - Socketio
+    - SQLAlchemy
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Render
+  icon: website
+  image: images/owok.jpg
+
+- name: PokeProbe
+  url: https://pokeprobe.onrender.com/
+  description: Full-stack web application where users can discover, catch, and share visual fusions of Pokémon with other users
+  # status: in progress
+  tags:
+    - JavaScript
+    - Express
+    - Pug
+    - Sequelize
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Render
+  icon: website
+  image: images/pokeprobe.png
+
+- name: Poll Party
+  url: https://poll-party.onrender.com/
+  description: Full-stack web application where users can create and vote on custom poll questions
+  # status: in progress
+  tags:
+    - JavaScript
+    - Python
+    - React
+    - Redux
+    - Flask
+    - SQLAlchemy
+    - PostgreSQL
+    - HTML
+    - CSS
+    - Render
+  icon: website
+  image: images/poll-party.png
